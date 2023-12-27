@@ -1,0 +1,36 @@
+@page "/trang-dau-tien/{solanlap:int?}"
+@model FirstPageModel
+@{
+    ViewData["Title"] = "TRANG DAU TIEN";
+
+}
+
+
+
+<h1 style="color: blue;">@Model.title</h1>
+<h2 style="color: pink;">@ViewData["mydata"]</h2>
+<p>Hoc Lap Tring ASP.NET Core(<strong>@System.DateTime.Now</strong>) </p>
+
+@{
+    var a = 5;
+    var b = 6;
+
+    var solanlapstring = this.Request.RouteValues["solanlap"]??"0";
+    int solanlap = Convert.ToInt32(solanlapstring);
+
+    <p>Can bac hai cua @b la @Math.Sqrt(b)</p>
+}
+
+<p>Tong cua @a va @b la @(a + b)</p>
+
+<p>So lan lap la @solanlap</p>
+
+<ol>
+    @for(int i = 1; i<= solanlap; i++)
+    {
+        <li>Muc thu @i</li>
+    }
+</ol>
+<p>@Model.Welcome("Vy")</p>
+
+<a style="color : red;" asp-page = "SecondPage"> Trang thu 1</a>

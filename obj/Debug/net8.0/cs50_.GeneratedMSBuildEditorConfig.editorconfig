@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cs50_
+build_property.RootNamespace = cs50_
+build_property.ProjectDir = C:\Users\tinti\cs50_\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tinti\cs50_
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tinti/cs50_/Areas/Product/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Areas/Product/Pages/Sanphammoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxQYWdlc1xTYW5waGFtbW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Areas/Product/Users/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxVc2Vyc1xQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Areas/Product/Users/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxVc2Vyc1xQYWdlc1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/DichVu/DichVu1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljaFZ1XERpY2hWdTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/DichVu/DichVu2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljaFZ1XERpY2hWdTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/DichVu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljaFZ1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/FirstPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlyc3RQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/SecondPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/Shared/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/ThirdPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhpcmRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tinti/cs50_/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
